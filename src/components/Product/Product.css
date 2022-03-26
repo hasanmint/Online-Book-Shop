@@ -19,6 +19,15 @@
 	margin: 14px;
 }
 
+.title{
+    font-family: 'Lato';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 21px;
+	line-height: 25px;
+	margin-top: 7px;
+}
+
 .btn-cart {
 	width: 100%;
 	background: #ffe0b3;
@@ -27,7 +36,6 @@
 	position: absolute;
 	left: 0;
     bottom: 0;
-    padding: 10px;
     display: flex;
     justify-content: center;
     align-items: center;
