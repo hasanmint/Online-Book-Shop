@@ -65,5 +65,13 @@
         "name": "Da'wa",
         "img": "https://images-na.ssl-images-amazon.com/images/I/51gjJ9s8+rL._SX313_BO1,204,203,200_.jpg",
         "price": 27
+    },
+
+    {
+        "id": "623de1af8540fa72eb9fc8964",
+        "name": "Ramazan",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/41ivK70JvbS._SX331_BO1,204,203,200_.jpg",
+        "price": 30
     }
+
 ]

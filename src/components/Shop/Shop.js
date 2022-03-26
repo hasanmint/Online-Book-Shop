@@ -42,7 +42,12 @@ const Shop = () => {
                         choseRandom={choseRandom}
                         ></Product>)
                     }
+
+                    <div className='mt-50'>
+                        
+                    </div>
                 </div>
+                
                 <div className="cart-container row ">
                 <Cart cart={cart}></Cart>
                 </div>
