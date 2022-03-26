@@ -1,7 +1,6 @@
-# Assignmnent Create React App
+# Online Book Shop React Website
 
-Live URL: [Create React App](https://github.com/facebook/create-react-app).
-
+Live URL: [Click App Link ](https://lucky-one-hasanmint.netlify.app/).
 
 Thanks for view my project
 
